@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolbarColors", "ToolbarColors\ToolbarColors.csproj", "{6458A281-3B6E-41D1-96AE-ACA05DFE2218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolbarColors.Droid", "Droid\ToolbarColors.Droid.csproj", "{6EC5B643-FAB2-49CD-980C-D4E0BA00303F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolbarColors.UITests", "UITests\ToolbarColors.UITests.csproj", "{465552F3-AF40-476D-88D2-A3AF7956CACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465552F3-AF40-476D-88D2-A3AF7956CACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465552F3-AF40-476D-88D2-A3AF7956CACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465552F3-AF40-476D-88D2-A3AF7956CACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465552F3-AF40-476D-88D2-A3AF7956CACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6458A281-3B6E-41D1-96AE-ACA05DFE2218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6458A281-3B6E-41D1-96AE-ACA05DFE2218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6458A281-3B6E-41D1-96AE-ACA05DFE2218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6458A281-3B6E-41D1-96AE-ACA05DFE2218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC5B643-FAB2-49CD-980C-D4E0BA00303F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC5B643-FAB2-49CD-980C-D4E0BA00303F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC5B643-FAB2-49CD-980C-D4E0BA00303F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC5B643-FAB2-49CD-980C-D4E0BA00303F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
